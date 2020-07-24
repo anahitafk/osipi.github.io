@@ -18,14 +18,9 @@ leads:
     website: https://www.linkedin.com/in/hamidreza-saligheh-rad-7127021a/
     role: Co-lead
     email: hamid.saligheh@gmail.com
-members:
-  Executive Committee:
-  	Executive Advisers: Kaveh Daneshmand, Hamidreza Saligheh Rad, Anahita Fathi Kazerooni
-	Executive Team: Farzad Alizadeh, Sogand Sadeghi, Hanieh Salari, Shirin Farsi, Salman Rezaei
-  Scientific Committee: 
-  	Scientific Advisers: Laura Bell, Hamidreza Saligheh Rad, Anahita Fathi Kazerooni
-	Scientific Team: Moss Zhao, Salman Rezaei, Xinze Zhou, Sam Sharifzadeh
-	Radiologists : Diego Pineda
+
+  
+  
 status:
   - 2020.07.23 Drafting outlines of the first challenges
 links:
