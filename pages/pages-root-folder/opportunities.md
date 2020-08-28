@@ -31,5 +31,7 @@ Pipeline developers and users are invited to particiapte in a community-based ch
 The OSIPI challenge on " Quantitative Contrast Perfusion MRI (QCP-MRI)":
 - Call for submission: all interested teams are invited to compete in this challenge that aims to establish a set of benchmarks for quantification of Ktrans from DCE-MRI scans of brain tumors. 
 - Call for participation: we invite interested pipeline developers to participate in independent replication of the proposed workflows submitted by the competing groups. 
-  
+
+Interested to get involved? Fill out our Google Form [here] (https://docs.google.com/forms/d/1Rl-rrD_TWDYaWQDUaFDgSf5s0JrPzDzecSGcE0hWE-8/edit?usp=sharing) to register for this challenge!
+
 *Please get in touch with [Task Force 6.2](/task-force-6-2/) leads for more information!*
